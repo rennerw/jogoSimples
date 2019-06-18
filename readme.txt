@@ -2,7 +2,7 @@
 
 Windows
 --------
-Para rodar o jogo arraste a pasta final para o arquivo love.exe
+Para rodar o jogo arraste a pasta final para o arquivo love.ex
 
 Linux
 --------
